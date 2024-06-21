@@ -12,7 +12,7 @@
 
 I recently graduated from college with a specialization in information technology. My main goal is continuous professional development. I actively study the latest technologies and development methods, and I am ready to apply my knowledge to solve complex problems and create high-quality software products. In my free time, I work on personal projects to stay updated on the latest trends and innovations in the IT industry. If you need a motivated and success-oriented developer with strong technical skills and a commitment to professional growth, I am ready to contribute.
 
-* 🔭 I’m currently working on game [Messenger](https://github.com/VUDUse/Messenger) developed at Godot Engine
+* 🔭 I’m currently working on game [Messenger](https://github.com/VUDUse/Messenger) developed at WPF. C#
 * 🌱 I’m currently learning C#
 * 🖥️ See my portfolio at [Portfolio](https://github.com/VUDUse?tab=repositories)
 
